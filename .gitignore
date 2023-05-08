@@ -1,0 +1,6 @@
+node_modules
+/dist_release
+/dist*
+debug.log
+git.sh
+*.DS_Store
